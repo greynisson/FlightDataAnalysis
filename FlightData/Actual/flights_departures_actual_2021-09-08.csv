@@ -1,0 +1,38 @@
+CreationDate,Date,Type,Scheduled,Destination,FlightNumber,Airline,Confirmed,Scenario
+2021-09-08,2021-09-07,Departure,00:25,Frankfurt,LH869,Lufthansa,00:17,Actual
+2021-09-08,2021-09-07,Departure,07:20,Zurich,FI568,Icelandair,07:16,Actual
+2021-09-08,2021-09-07,Departure,07:20,Munchen,FI532,Icelandair,07:16,Actual
+2021-09-08,2021-09-07,Departure,07:25,Frankfurt,FI520,Icelandair,07:23,Actual
+2021-09-08,2021-09-07,Departure,07:30,Dublin,FI416,Icelandair,07:26,Actual
+2021-09-08,2021-09-07,Departure,07:35,Glasgow,FI430,Icelandair,07:20,Actual
+2021-09-08,2021-09-07,Departure,07:40,London Heathrow,FI450,Icelandair,07:40,Actual
+2021-09-08,2021-09-07,Departure,07:40,París CDG,FI542,Icelandair,07:31,Actual
+2021-09-08,2021-09-07,Departure,07:40,Berlin Brandenburg,FI528,Icelandair,07:45,Actual
+2021-09-08,2021-09-07,Departure,07:40,Amsterdam,FI500,Icelandair,07:36,Actual
+2021-09-08,2021-09-07,Departure,07:45,Kaupmannahöfn,FI204,Icelandair,07:45,Actual
+2021-09-08,2021-09-07,Departure,07:50,Osló,FI318,Icelandair,Aflýst,Actual
+2021-09-08,2021-09-07,Departure,07:50,Hamborg,FI510,Icelandair,07:37,Actual
+2021-09-08,2021-09-07,Departure,08:00,Kaupmannahöfn,FI206,Icelandair,08:03,Actual
+2021-09-08,2021-09-07,Departure,09:30,Minneapolis St Paul,DL261,Delta,09:27,Actual
+2021-09-08,2021-09-07,Departure,10:00,Alicante,OG600,Play,10:00,Actual
+2021-09-08,2021-09-07,Departure,10:10,Tenerife South,OG620,Play,09:57,Actual
+2021-09-08,2021-09-07,Departure,10:30,Chicago,UA913,United Airlines,10:11,Actual
+2021-09-08,2021-09-07,Departure,10:45,London Heathrow,BA801,British Airways,10:44,Actual
+2021-09-08,2021-09-07,Departure,11:15,New York JFK,DL247,Delta,11:01,Actual
+2021-09-08,2021-09-07,Departure,11:20,New York Newark,UA967,United Airlines,11:03,Actual
+2021-09-08,2021-09-07,Departure,13:35,Frankfurt,LH857,Lufthansa,13:23,Actual
+2021-09-08,2021-09-07,Departure,15:35,Vín,OS9764,Austrian,15:29,Actual
+2021-09-08,2021-09-07,Departure,16:25,Búdapest,W62428,Wizz Air,16:25,Actual
+2021-09-08,2021-09-07,Departure,16:45,Minneapolis St Paul,FI657,Icelandair,16:40,Actual
+2021-09-08,2021-09-07,Departure,16:50,Washington Dulles,FI645,Icelandair,16:51,Actual
+2021-09-08,2021-09-07,Departure,16:50,Portland,FI665,Icelandair,16:48,Actual
+2021-09-08,2021-09-07,Departure,16:55,Denver,FI671,Icelandair,16:48,Actual
+2021-09-08,2021-09-07,Departure,17:00,New York JFK,FI615,Icelandair,16:59,Actual
+2021-09-08,2021-09-07,Departure,17:00,New York Newark,FI623,Icelandair,16:57,Actual
+2021-09-08,2021-09-07,Departure,17:05,Seattle,FI681,Icelandair,16:52,Actual
+2021-09-08,2021-09-07,Departure,17:15,Boston,FI631,Icelandair,17:09,Actual
+2021-09-08,2021-09-07,Departure,17:50,Vín,W62858,Wizz Air,18:02,Actual
+2021-09-08,2021-09-07,Departure,17:50,Seattle,FI683,Icelandair,17:37,Actual
+2021-09-08,2021-09-07,Departure,18:50,Wroclaw,W61898,Wizz Air,18:41,Actual
+2021-09-08,2021-09-07,Departure,19:20,Mílanó,W65566,Wizz Air,20:10,Actual
+2021-09-08,2021-09-07,Departure,20:50,Gdansk,W61774,Wizz Air,20:47,Actual
