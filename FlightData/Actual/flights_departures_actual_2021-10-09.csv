@@ -1,0 +1,394 @@
+CreationDate,Date,Type,Scheduled,Destination,FlightNumber,Airline,Confirmed,Scenario
+2021-10-09,2021-10-08,Departure,00:05,Varsjá,W61540,Wizz Air,00:04,Actual
+2021-10-09,2021-10-08,Departure,01:05,Munchen,LH2469,Lufthansa,01:08,Actual
+2021-10-09,2021-10-08,Departure,06:00,Berlin Brandenburg,OG700,Play,05:50,Actual
+2021-10-09,2021-10-08,Departure,06:30,London Stansted,OG800,Play,06:27,Actual
+2021-10-09,2021-10-08,Departure,07:25,Frankfurt,FI520,Icelandair,07:25,Actual
+2021-10-09,2021-10-08,Departure,07:35,Stokkhólmur,FI306,Icelandair,07:41,Actual
+2021-10-09,2021-10-08,Departure,07:40,París CDG,FI542,Icelandair,07:38,Actual
+2021-10-09,2021-10-08,Departure,07:40,London Heathrow,FI450,Icelandair,07:32,Actual
+2021-10-09,2021-10-08,Departure,07:40,Berlin Brandenburg,FI528,Icelandair,07:45,Actual
+2021-10-09,2021-10-08,Departure,07:40,Amsterdam,FI500,Icelandair,08:10,Actual
+2021-10-09,2021-10-08,Departure,07:45,Kaupmannahöfn,FI204,Icelandair,07:48,Actual
+2021-10-09,2021-10-08,Departure,08:00,Manchester,FI440,Icelandair,07:47,Actual
+2021-10-09,2021-10-08,Departure,08:50,Amsterdam,HV6888,Transavia,08:56,Actual
+2021-10-09,2021-10-08,Departure,09:15,London Luton,EZY2296,EasyJet,09:10,Actual
+2021-10-09,2021-10-08,Departure,10:30,Kaupmannahöfn,SK596,SAS,10:40,Actual
+2021-10-09,2021-10-08,Departure,11:15,New York JFK,DL247,Delta,11:12,Actual
+2021-10-09,2021-10-08,Departure,11:20,New York Newark,UA967,United Airlines,11:14,Actual
+2021-10-09,2021-10-08,Departure,11:30,Osló,SK4788,SAS,Aflýst,Actual
+2021-10-09,2021-10-08,Departure,11:40,Vagar,RC402,Atlantic Airways,17:44,Actual
+2021-10-09,2021-10-08,Departure,14:00,Kaupmannahöfn,FI212,Icelandair,13:44,Actual
+2021-10-09,2021-10-08,Departure,15:10,Riga,BT170,Air Baltic,15:20,Actual
+2021-10-09,2021-10-08,Departure,15:15,Kaupmannahöfn,OG904,Play,15:10,Actual
+2021-10-09,2021-10-08,Departure,15:15,Barcelona,OG614,Play,15:15,Actual
+2021-10-09,2021-10-08,Departure,16:10,London Heathrow,FI454,Icelandair,16:20,Actual
+2021-10-09,2021-10-08,Departure,16:45,Chicago,FI853,Icelandair,16:42,Actual
+2021-10-09,2021-10-08,Departure,16:45,Minneapolis St Paul,FI657,Icelandair,16:49,Actual
+2021-10-09,2021-10-08,Departure,16:50,Washington Dulles,FI645,Icelandair,16:49,Actual
+2021-10-09,2021-10-08,Departure,16:55,Denver,FI671,Icelandair,17:02,Actual
+2021-10-09,2021-10-08,Departure,17:00,New York JFK,FI615,Icelandair,16:55,Actual
+2021-10-09,2021-10-08,Departure,17:00,New York Newark,FI623,Icelandair,16:51,Actual
+2021-10-09,2021-10-08,Departure,17:05,Seattle,FI681,Icelandair,17:07,Actual
+2021-10-09,2021-10-08,Departure,17:05,Toronto,FI603,Icelandair,17:02,Actual
+2021-10-09,2021-10-08,Departure,17:15,Orlando,FI689,Icelandair,17:15,Actual
+2021-10-09,2021-10-08,Departure,17:15,Boston,FI631,Icelandair,17:21,Actual
+2021-10-09,2021-10-08,Departure,19:20,Rome Fiumicino,W68266,Wizz Air,20:08,Actual
+2021-10-09,2021-10-08,Departure,20:45,Katowice,W61168,Wizz Air,21:08,Actual
+2021-10-09,2021-10-07,Departure,00:25,Frankfurt,LH869,Lufthansa,00:50,Actual
+2021-10-09,2021-10-07,Departure,06:00,Berlin Brandenburg,OG700,Play,05:46,Actual
+2021-10-09,2021-10-07,Departure,06:00,París CDG,OG400,Play,05:41,Actual
+2021-10-09,2021-10-07,Departure,06:30,London Stansted,OG800,Play,06:12,Actual
+2021-10-09,2021-10-07,Departure,07:20,Zurich,FI568,Icelandair,07:27,Actual
+2021-10-09,2021-10-07,Departure,07:20,Munchen,FI532,Icelandair,07:27,Actual
+2021-10-09,2021-10-07,Departure,07:25,Frankfurt,FI520,Icelandair,07:30,Actual
+2021-10-09,2021-10-07,Departure,07:30,Dublin,FI416,Icelandair,07:32,Actual
+2021-10-09,2021-10-07,Departure,07:35,Stokkhólmur,FI306,Icelandair,07:42,Actual
+2021-10-09,2021-10-07,Departure,07:40,Brussel,FI554,Icelandair,07:42,Actual
+2021-10-09,2021-10-07,Departure,07:40,Berlin Brandenburg,FI528,Icelandair,07:51,Actual
+2021-10-09,2021-10-07,Departure,07:40,London Heathrow,FI450,Icelandair,07:49,Actual
+2021-10-09,2021-10-07,Departure,07:40,París CDG,FI542,Icelandair,07:49,Actual
+2021-10-09,2021-10-07,Departure,07:40,Amsterdam,FI500,Icelandair,07:56,Actual
+2021-10-09,2021-10-07,Departure,07:45,Kaupmannahöfn,FI204,Icelandair,08:01,Actual
+2021-10-09,2021-10-07,Departure,07:50,Osló,FI318,Icelandair,08:02,Actual
+2021-10-09,2021-10-07,Departure,08:00,Manchester,FI440,Icelandair,08:01,Actual
+2021-10-09,2021-10-07,Departure,08:30,Paris Le Bourget,ENT530,Enter Air Spolka z.o.o.,09:37,Actual
+2021-10-09,2021-10-07,Departure,08:40,Tenerife South,FI580,Icelandair,08:48,Actual
+2021-10-09,2021-10-07,Departure,08:45,London Luton,EZY2296,EasyJet,08:45,Actual
+2021-10-09,2021-10-07,Departure,08:50,Alicante,FI1582,Icelandair,08:53,Actual
+2021-10-09,2021-10-07,Departure,09:00,Manchester,EZY1806,EasyJet,08:58,Actual
+2021-10-09,2021-10-07,Departure,10:15,Leeds,LS4086,JET2.Com,10:08,Actual
+2021-10-09,2021-10-07,Departure,10:40,London Heathrow,BA801,British Airways,10:47,Actual
+2021-10-09,2021-10-07,Departure,10:45,Birmingham,LS4090,JET2.Com,10:31,Actual
+2021-10-09,2021-10-07,Departure,11:15,New York JFK,DL247,Delta,11:21,Actual
+2021-10-09,2021-10-07,Departure,11:15,Manchester,LS4088,JET2.Com,11:14,Actual
+2021-10-09,2021-10-07,Departure,11:20,Osló,DY1171,Norwegian,11:20,Actual
+2021-10-09,2021-10-07,Departure,11:20,New York Newark,UA967,United Airlines,11:04,Actual
+2021-10-09,2021-10-07,Departure,11:45,Osló,SK4788,SAS,11:46,Actual
+2021-10-09,2021-10-07,Departure,13:35,Frankfurt,LH857,Lufthansa,13:23,Actual
+2021-10-09,2021-10-07,Departure,14:00,Kaupmannahöfn,FI212,Icelandair,14:08,Actual
+2021-10-09,2021-10-07,Departure,14:20,Napoli Capodichino,W68434,Wizz Air,14:37,Actual
+2021-10-09,2021-10-07,Departure,15:05,Edinborg,EZY6942,EasyJet,15:02,Actual
+2021-10-09,2021-10-07,Departure,15:15,Kaupmannahöfn,OG904,Play,15:06,Actual
+2021-10-09,2021-10-07,Departure,16:10,London Heathrow,FI454,Icelandair,16:06,Actual
+2021-10-09,2021-10-07,Departure,16:50,Washington Dulles,FI645,Icelandair,16:40,Actual
+2021-10-09,2021-10-07,Departure,16:55,Denver,FI671,Icelandair,16:53,Actual
+2021-10-09,2021-10-07,Departure,17:00,New York Newark,FI623,Icelandair,16:48,Actual
+2021-10-09,2021-10-07,Departure,17:00,New York JFK,FI615,Icelandair,16:55,Actual
+2021-10-09,2021-10-07,Departure,17:05,Seattle,FI681,Icelandair,17:03,Actual
+2021-10-09,2021-10-07,Departure,17:05,Toronto,FI603,Icelandair,17:08,Actual
+2021-10-09,2021-10-07,Departure,17:15,Boston,FI631,Icelandair,17:06,Actual
+2021-10-09,2021-10-07,Departure,20:00,Gdansk,W61774,Wizz Air,19:50,Actual
+2021-10-09,2021-10-07,Departure,21:50,Barcelona,VY8561,Vueling,21:30,Actual
+2021-10-09,2021-10-06,Departure,00:10,Varsjá,W61540,Wizz Air,00:10,Actual
+2021-10-09,2021-10-06,Departure,07:20,Zurich,FI568,Icelandair,07:19,Actual
+2021-10-09,2021-10-06,Departure,07:35,Stokkhólmur,FI306,Icelandair,07:29,Actual
+2021-10-09,2021-10-06,Departure,07:40,London Heathrow,FI450,Icelandair,07:33,Actual
+2021-10-09,2021-10-06,Departure,07:40,París CDG,FI542,Icelandair,07:39,Actual
+2021-10-09,2021-10-06,Departure,07:40,Amsterdam,FI500,Icelandair,07:39,Actual
+2021-10-09,2021-10-06,Departure,07:45,Kaupmannahöfn,FI204,Icelandair,07:47,Actual
+2021-10-09,2021-10-06,Departure,08:20,Tenerife South,NO3924,Neos,08:32,Actual
+2021-10-09,2021-10-06,Departure,08:40,Tenerife South,FI580,Icelandair,08:38,Actual
+2021-10-09,2021-10-06,Departure,08:50,Tenerife South,FI582,Icelandair,08:39,Actual
+2021-10-09,2021-10-06,Departure,10:30,Kaupmannahöfn,SK596,SAS,10:31,Actual
+2021-10-09,2021-10-06,Departure,11:15,New York JFK,DL247,Delta,11:15,Actual
+2021-10-09,2021-10-06,Departure,11:20,New York Newark,UA967,United Airlines,11:58,Actual
+2021-10-09,2021-10-06,Departure,14:00,Kaupmannahöfn,FI212,Icelandair,13:51,Actual
+2021-10-09,2021-10-06,Departure,16:45,Minneapolis St Paul,FI657,Icelandair,16:59,Actual
+2021-10-09,2021-10-06,Departure,16:45,Chicago,FI853,Icelandair,16:32,Actual
+2021-10-09,2021-10-06,Departure,16:50,Washington Dulles,FI645,Icelandair,17:03,Actual
+2021-10-09,2021-10-06,Departure,17:00,New York Newark,FI623,Icelandair,19:15,Actual
+2021-10-09,2021-10-06,Departure,17:00,New York JFK,FI615,Icelandair,16:51,Actual
+2021-10-09,2021-10-06,Departure,17:05,Seattle,FI681,Icelandair,17:04,Actual
+2021-10-09,2021-10-06,Departure,17:05,Toronto,FI603,Icelandair,16:58,Actual
+2021-10-09,2021-10-06,Departure,17:15,Boston,FI631,Icelandair,17:34,Actual
+2021-10-09,2021-10-06,Departure,19:50,Amsterdam,HV6888,Transavia,20:01,Actual
+2021-10-09,2021-10-05,Departure,00:25,Frankfurt,LH869,Lufthansa,00:48,Actual
+2021-10-09,2021-10-05,Departure,07:25,Frankfurt,FI520,Icelandair,07:20,Actual
+2021-10-09,2021-10-05,Departure,07:30,Dublin,FI416,Icelandair,07:21,Actual
+2021-10-09,2021-10-05,Departure,07:40,París CDG,FI542,Icelandair,07:36,Actual
+2021-10-09,2021-10-05,Departure,07:40,Amsterdam,FI500,Icelandair,07:33,Actual
+2021-10-09,2021-10-05,Departure,07:40,London Heathrow,FI450,Icelandair,07:29,Actual
+2021-10-09,2021-10-05,Departure,07:45,Kaupmannahöfn,FI204,Icelandair,07:36,Actual
+2021-10-09,2021-10-05,Departure,07:50,Osló,FI318,Icelandair,07:45,Actual
+2021-10-09,2021-10-05,Departure,09:30,Minneapolis St Paul,DL261,Delta,Aflýst,Actual
+2021-10-09,2021-10-05,Departure,10:00,Alicante,OG600,Play,09:59,Actual
+2021-10-09,2021-10-05,Departure,10:10,Tenerife South,OG620,Play,10:07,Actual
+2021-10-09,2021-10-05,Departure,10:45,London Heathrow,BA801,British Airways,10:42,Actual
+2021-10-09,2021-10-05,Departure,11:15,New York JFK,DL247,Delta,11:31,Actual
+2021-10-09,2021-10-05,Departure,11:20,New York Newark,UA967,United Airlines,11:08,Actual
+2021-10-09,2021-10-05,Departure,13:35,Frankfurt,LH857,Lufthansa,13:30,Actual
+2021-10-09,2021-10-05,Departure,14:00,Kaupmannahöfn,FI212,Icelandair,13:44,Actual
+2021-10-09,2021-10-05,Departure,16:25,Búdapest,W62428,Wizz Air,16:10,Actual
+2021-10-09,2021-10-05,Departure,16:50,Washington Dulles,FI645,Icelandair,16:31,Actual
+2021-10-09,2021-10-05,Departure,16:55,Denver,FI671,Icelandair,17:08,Actual
+2021-10-09,2021-10-05,Departure,17:00,New York JFK,FI615,Icelandair,17:01,Actual
+2021-10-09,2021-10-05,Departure,17:05,Seattle,FI681,Icelandair,17:00,Actual
+2021-10-09,2021-10-05,Departure,17:10,París Orly,TO4041,Transavia,17:14,Actual
+2021-10-09,2021-10-05,Departure,17:15,Boston,FI631,Icelandair,17:00,Actual
+2021-10-09,2021-10-05,Departure,17:50,Vín,W62858,Wizz Air,17:43,Actual
+2021-10-09,2021-10-05,Departure,18:50,Wroclaw,W61898,Wizz Air,18:35,Actual
+2021-10-09,2021-10-05,Departure,19:20,Mílanó,W65566,Wizz Air,19:32,Actual
+2021-10-09,2021-10-05,Departure,20:50,Gdansk,W61774,Wizz Air,20:46,Actual
+2021-10-09,2021-10-04,Departure,00:05,Varsjá,W61540,Wizz Air,23:56,Actual
+2021-10-09,2021-10-04,Departure,00:25,Frankfurt,LH869,Lufthansa,00:18,Actual
+2021-10-09,2021-10-04,Departure,06:00,París CDG,OG400,Play,05:44,Actual
+2021-10-09,2021-10-04,Departure,06:00,Berlin Brandenburg,OG700,Play,05:56,Actual
+2021-10-09,2021-10-04,Departure,06:00,Alicante,NO1902,Neos,06:10,Actual
+2021-10-09,2021-10-04,Departure,06:30,London Stansted,OG800,Play,06:25,Actual
+2021-10-09,2021-10-04,Departure,07:20,Munchen,FI532,Icelandair,07:16,Actual
+2021-10-09,2021-10-04,Departure,07:20,Zurich,FI568,Icelandair,07:33,Actual
+2021-10-09,2021-10-04,Departure,07:25,Frankfurt,FI520,Icelandair,07:26,Actual
+2021-10-09,2021-10-04,Departure,07:35,Stokkhólmur,FI306,Icelandair,07:40,Actual
+2021-10-09,2021-10-04,Departure,07:40,London Heathrow,FI450,Icelandair,07:43,Actual
+2021-10-09,2021-10-04,Departure,07:40,Brussel,FI554,Icelandair,07:35,Actual
+2021-10-09,2021-10-04,Departure,07:40,París CDG,FI542,Icelandair,07:39,Actual
+2021-10-09,2021-10-04,Departure,07:40,Amsterdam,FI500,Icelandair,07:36,Actual
+2021-10-09,2021-10-04,Departure,07:40,Berlin Brandenburg,FI528,Icelandair,07:54,Actual
+2021-10-09,2021-10-04,Departure,07:45,Kaupmannahöfn,FI204,Icelandair,07:38,Actual
+2021-10-09,2021-10-04,Departure,08:00,Manchester,FI440,Icelandair,07:49,Actual
+2021-10-09,2021-10-04,Departure,08:50,Alicante,FI1582,Icelandair,08:54,Actual
+2021-10-09,2021-10-04,Departure,09:10,London Luton,EZY2296,EasyJet,09:10,Actual
+2021-10-09,2021-10-04,Departure,10:15,Belfast,LS4094,JET2.Com,10:14,Actual
+2021-10-09,2021-10-04,Departure,10:30,Kaupmannahöfn,SK596,SAS,10:31,Actual
+2021-10-09,2021-10-04,Departure,10:30,Chicago,UA913,United Airlines,10:20,Actual
+2021-10-09,2021-10-04,Departure,10:45,Birmingham,LS4090,JET2.Com,10:37,Actual
+2021-10-09,2021-10-04,Departure,11:15,Manchester,LS4088,JET2.Com,11:06,Actual
+2021-10-09,2021-10-04,Departure,11:15,New York JFK,DL247,Delta,11:17,Actual
+2021-10-09,2021-10-04,Departure,11:20,New York Newark,UA967,United Airlines,11:32,Actual
+2021-10-09,2021-10-04,Departure,11:40,Vagar,RC402,Atlantic Airways,20:53,Actual
+2021-10-09,2021-10-04,Departure,14:00,Kaupmannahöfn,FI212,Icelandair,13:48,Actual
+2021-10-09,2021-10-04,Departure,15:10,Riga,BT170,Air Baltic,15:10,Actual
+2021-10-09,2021-10-04,Departure,15:15,Barcelona,OG614,Play,15:13,Actual
+2021-10-09,2021-10-04,Departure,15:15,Kaupmannahöfn,OG904,Play,15:22,Actual
+2021-10-09,2021-10-04,Departure,16:10,London Heathrow,FI454,Icelandair,16:03,Actual
+2021-10-09,2021-10-04,Departure,16:45,Chicago,FI853,Icelandair,16:34,Actual
+2021-10-09,2021-10-04,Departure,16:50,Washington Dulles,FI645,Icelandair,16:46,Actual
+2021-10-09,2021-10-04,Departure,16:50,Portland,FI665,Icelandair,16:58,Actual
+2021-10-09,2021-10-04,Departure,17:00,New York Newark,FI623,Icelandair,Aflýst,Actual
+2021-10-09,2021-10-04,Departure,17:00,New York JFK,FI615,Icelandair,16:55,Actual
+2021-10-09,2021-10-04,Departure,17:05,Seattle,FI681,Icelandair,17:04,Actual
+2021-10-09,2021-10-04,Departure,17:05,Toronto,FI603,Icelandair,17:11,Actual
+2021-10-09,2021-10-04,Departure,17:15,Boston,FI631,Icelandair,17:14,Actual
+2021-10-09,2021-10-04,Departure,17:15,Orlando,FI689,Icelandair,17:13,Actual
+2021-10-09,2021-10-04,Departure,17:20,Ljubljana,NO1922,Neos,Aflýst,Actual
+2021-10-09,2021-10-04,Departure,18:20,Amsterdam,HV6888,Transavia,18:21,Actual
+2021-10-09,2021-10-04,Departure,19:20,Rome Fiumicino,W68266,Wizz Air,20:08,Actual
+2021-10-09,2021-10-04,Departure,20:00,Barcelona,VY8561,Vueling,19:55,Actual
+2021-10-09,2021-10-04,Departure,20:45,Katowice,W61168,Wizz Air,20:48,Actual
+2021-10-09,2021-10-03,Departure,00:10,Varsjá,W61540,Wizz Air,00:10,Actual
+2021-10-09,2021-10-03,Departure,00:45,París Orly,TO4041,Transavia,01:10,Actual
+2021-10-09,2021-10-03,Departure,01:05,Munchen,LH2469,Lufthansa,01:00,Actual
+2021-10-09,2021-10-03,Departure,06:00,Berlin Brandenburg,OG700,Play,05:51,Actual
+2021-10-09,2021-10-03,Departure,06:00,París CDG,OG400,Play,05:55,Actual
+2021-10-09,2021-10-03,Departure,06:30,London Stansted,OG800,Play,06:26,Actual
+2021-10-09,2021-10-03,Departure,07:20,Munchen,FI532,Icelandair,07:18,Actual
+2021-10-09,2021-10-03,Departure,07:20,Zurich,FI568,Icelandair,07:25,Actual
+2021-10-09,2021-10-03,Departure,07:25,Frankfurt,FI520,Icelandair,07:29,Actual
+2021-10-09,2021-10-03,Departure,07:30,Dublin,FI416,Icelandair,07:31,Actual
+2021-10-09,2021-10-03,Departure,07:35,Stokkhólmur,FI306,Icelandair,07:34,Actual
+2021-10-09,2021-10-03,Departure,07:40,París CDG,FI542,Icelandair,07:43,Actual
+2021-10-09,2021-10-03,Departure,07:40,Brussel,FI554,Icelandair,07:41,Actual
+2021-10-09,2021-10-03,Departure,07:40,Amsterdam,FI500,Icelandair,07:42,Actual
+2021-10-09,2021-10-03,Departure,07:40,Berlin Brandenburg,FI528,Icelandair,07:37,Actual
+2021-10-09,2021-10-03,Departure,07:40,London Heathrow,FI450,Icelandair,07:43,Actual
+2021-10-09,2021-10-03,Departure,07:45,Kaupmannahöfn,FI204,Icelandair,07:48,Actual
+2021-10-09,2021-10-03,Departure,07:50,Osló,FI318,Icelandair,07:36,Actual
+2021-10-09,2021-10-03,Departure,08:00,Manchester,FI440,Icelandair,07:51,Actual
+2021-10-09,2021-10-03,Departure,08:00,Kaupmannahöfn,FI206,Icelandair,07:59,Actual
+2021-10-09,2021-10-03,Departure,08:50,Osló,DY1171,Norwegian,08:43,Actual
+2021-10-09,2021-10-03,Departure,09:15,Manchester,EZY1806,EasyJet,09:05,Actual
+2021-10-09,2021-10-03,Departure,09:30,Minneapolis St Paul,DL261,Delta,09:27,Actual
+2021-10-09,2021-10-03,Departure,09:35,London Luton,EZY2296,EasyJet,09:28,Actual
+2021-10-09,2021-10-03,Departure,09:55,Kaupmannahöfn,SK596,SAS,09:54,Actual
+2021-10-09,2021-10-03,Departure,10:30,Chicago,UA913,United Airlines,10:20,Actual
+2021-10-09,2021-10-03,Departure,11:15,New York JFK,DL247,Delta,11:04,Actual
+2021-10-09,2021-10-03,Departure,11:20,New York Newark,UA967,United Airlines,11:09,Actual
+2021-10-09,2021-10-03,Departure,14:00,Kaupmannahöfn,FI212,Icelandair,13:55,Actual
+2021-10-09,2021-10-03,Departure,14:20,Napoli Capodichino,W68434,Wizz Air,14:57,Actual
+2021-10-09,2021-10-03,Departure,15:10,Riga,BT170,Air Baltic,15:02,Actual
+2021-10-09,2021-10-03,Departure,15:15,Kaupmannahöfn,OG904,Play,15:02,Actual
+2021-10-09,2021-10-03,Departure,15:25,Edinborg,EZY6942,EasyJet,15:15,Actual
+2021-10-09,2021-10-03,Departure,16:10,London Heathrow,FI454,Icelandair,16:04,Actual
+2021-10-09,2021-10-03,Departure,16:15,Osló,SK4788,SAS,16:31,Actual
+2021-10-09,2021-10-03,Departure,16:45,Chicago,FI853,Icelandair,16:42,Actual
+2021-10-09,2021-10-03,Departure,16:45,Minneapolis St Paul,FI657,Icelandair,16:46,Actual
+2021-10-09,2021-10-03,Departure,16:50,Washington Dulles,FI645,Icelandair,16:43,Actual
+2021-10-09,2021-10-03,Departure,16:55,Denver,FI671,Icelandair,16:52,Actual
+2021-10-09,2021-10-03,Departure,16:55,Nuuk,GL1711,Air Greenland,17:03,Actual
+2021-10-09,2021-10-03,Departure,17:00,New York Newark,FI623,Icelandair,16:51,Actual
+2021-10-09,2021-10-03,Departure,17:00,New York JFK,FI615,Icelandair,17:00,Actual
+2021-10-09,2021-10-03,Departure,17:05,Seattle,FI681,Icelandair,17:24,Actual
+2021-10-09,2021-10-03,Departure,17:05,Toronto,FI603,Icelandair,17:27,Actual
+2021-10-09,2021-10-03,Departure,17:15,Boston,FI631,Icelandair,17:16,Actual
+2021-10-09,2021-10-03,Departure,20:05,Amsterdam,HV6886,Transavia,20:04,Actual
+2021-10-09,2021-10-03,Departure,20:50,Riga,W62598,Wizz Air,20:57,Actual
+2021-10-09,2021-10-02,Departure,00:25,Frankfurt,LH869,Lufthansa,00:43,Actual
+2021-10-09,2021-10-02,Departure,07:20,Munchen,FI532,Icelandair,07:15,Actual
+2021-10-09,2021-10-02,Departure,07:20,Zurich,FI568,Icelandair,07:16,Actual
+2021-10-09,2021-10-02,Departure,07:25,Frankfurt,FI520,Icelandair,07:28,Actual
+2021-10-09,2021-10-02,Departure,07:30,Dublin,FI416,Icelandair,07:45,Actual
+2021-10-09,2021-10-02,Departure,07:35,Stokkhólmur,FI306,Icelandair,07:28,Actual
+2021-10-09,2021-10-02,Departure,07:40,París CDG,FI542,Icelandair,07:40,Actual
+2021-10-09,2021-10-02,Departure,07:40,London Heathrow,FI450,Icelandair,07:35,Actual
+2021-10-09,2021-10-02,Departure,07:40,Berlin Brandenburg,FI528,Icelandair,07:40,Actual
+2021-10-09,2021-10-02,Departure,07:40,Amsterdam,FI500,Icelandair,07:40,Actual
+2021-10-09,2021-10-02,Departure,07:40,Brussel,FI554,Icelandair,07:37,Actual
+2021-10-09,2021-10-02,Departure,07:45,Kaupmannahöfn,FI204,Icelandair,07:42,Actual
+2021-10-09,2021-10-02,Departure,07:50,Osló,FI318,Icelandair,07:48,Actual
+2021-10-09,2021-10-02,Departure,08:00,Kaupmannahöfn,FI206,Icelandair,07:55,Actual
+2021-10-09,2021-10-02,Departure,08:20,Alicante,NO6904,Neos,08:33,Actual
+2021-10-09,2021-10-02,Departure,08:30,Jerez,FI1080,Icelandair,08:45,Actual
+2021-10-09,2021-10-02,Departure,08:40,Tenerife South,FI580,Icelandair,08:40,Actual
+2021-10-09,2021-10-02,Departure,08:50,Tenerife South,FI582,Icelandair,08:53,Actual
+2021-10-09,2021-10-02,Departure,09:20,Dortmund,W64714,Wizz Air,09:23,Actual
+2021-10-09,2021-10-02,Departure,09:30,Minneapolis St Paul,DL261,Delta,09:34,Actual
+2021-10-09,2021-10-02,Departure,10:10,Tenerife South,OG620,Play,10:08,Actual
+2021-10-09,2021-10-02,Departure,10:10,London Heathrow,BA801,British Airways,10:40,Actual
+2021-10-09,2021-10-02,Departure,10:30,Chicago,UA913,United Airlines,11:22,Actual
+2021-10-09,2021-10-02,Departure,11:15,New York JFK,DL247,Delta,11:05,Actual
+2021-10-09,2021-10-02,Departure,11:20,New York Newark,UA967,United Airlines,11:15,Actual
+2021-10-09,2021-10-02,Departure,13:35,Frankfurt,LH857,Lufthansa,13:29,Actual
+2021-10-09,2021-10-02,Departure,14:00,Kaupmannahöfn,FI212,Icelandair,14:16,Actual
+2021-10-09,2021-10-02,Departure,15:15,Alicante,OG604,Play,15:13,Actual
+2021-10-09,2021-10-02,Departure,16:25,Búdapest,W62428,Wizz Air,17:32,Actual
+2021-10-09,2021-10-02,Departure,16:45,Minneapolis St Paul,FI657,Icelandair,16:49,Actual
+2021-10-09,2021-10-02,Departure,16:45,Chicago,FI853,Icelandair,16:50,Actual
+2021-10-09,2021-10-02,Departure,16:50,Washington Dulles,FI645,Icelandair,17:00,Actual
+2021-10-09,2021-10-02,Departure,16:50,Portland,FI665,Icelandair,Aflýst,Actual
+2021-10-09,2021-10-02,Departure,16:55,London Luton,EZY2296,EasyJet,16:43,Actual
+2021-10-09,2021-10-02,Departure,16:55,Nuuk,GL1711,Air Greenland,16:46,Actual
+2021-10-09,2021-10-02,Departure,16:55,Denver,FI671,Icelandair,17:08,Actual
+2021-10-09,2021-10-02,Departure,17:00,New York JFK,FI615,Icelandair,17:00,Actual
+2021-10-09,2021-10-02,Departure,17:00,New York Newark,FI623,Icelandair,16:55,Actual
+2021-10-09,2021-10-02,Departure,17:05,Seattle,FI681,Icelandair,17:08,Actual
+2021-10-09,2021-10-02,Departure,17:05,Toronto,FI603,Icelandair,17:25,Actual
+2021-10-09,2021-10-02,Departure,17:15,Boston,FI631,Icelandair,17:35,Actual
+2021-10-09,2021-10-02,Departure,17:50,Vín,W62858,Wizz Air,18:17,Actual
+2021-10-09,2021-10-02,Departure,18:50,Wroclaw,W61898,Wizz Air,18:42,Actual
+2021-10-09,2021-10-02,Departure,19:20,Mílanó,W65566,Wizz Air,20:22,Actual
+2021-10-09,2021-10-02,Departure,19:35,Barcelona,VY8561,Vueling,19:28,Actual
+2021-10-09,2021-10-02,Departure,20:50,Gdansk,W61774,Wizz Air,23:00,Actual
+2021-10-09,2021-10-01,Departure,00:05,Varsjá,W61540,Wizz Air,00:01,Actual
+2021-10-09,2021-10-01,Departure,01:05,Munchen,LH2469,Lufthansa,01:11,Actual
+2021-10-09,2021-10-01,Departure,06:00,París CDG,OG400,Play,05:49,Actual
+2021-10-09,2021-10-01,Departure,06:00,Berlin Brandenburg,OG700,Play,05:57,Actual
+2021-10-09,2021-10-01,Departure,06:30,London Stansted,OG800,Play,06:22,Actual
+2021-10-09,2021-10-01,Departure,07:20,Munchen,FI532,Icelandair,07:23,Actual
+2021-10-09,2021-10-01,Departure,07:20,Zurich,FI568,Icelandair,07:16,Actual
+2021-10-09,2021-10-01,Departure,07:25,Frankfurt,FI520,Icelandair,07:28,Actual
+2021-10-09,2021-10-01,Departure,07:35,Stokkhólmur,FI306,Icelandair,07:45,Actual
+2021-10-09,2021-10-01,Departure,07:40,London Heathrow,FI450,Icelandair,07:40,Actual
+2021-10-09,2021-10-01,Departure,07:40,París CDG,FI542,Icelandair,07:43,Actual
+2021-10-09,2021-10-01,Departure,07:40,Berlin Brandenburg,FI528,Icelandair,07:54,Actual
+2021-10-09,2021-10-01,Departure,07:40,Amsterdam,FI500,Icelandair,07:42,Actual
+2021-10-09,2021-10-01,Departure,07:45,Kaupmannahöfn,FI204,Icelandair,07:47,Actual
+2021-10-09,2021-10-01,Departure,07:50,Osló,FI318,Icelandair,07:47,Actual
+2021-10-09,2021-10-01,Departure,08:00,Manchester,FI440,Icelandair,08:01,Actual
+2021-10-09,2021-10-01,Departure,08:30,Faro,FI1542,Icelandair,09:37,Actual
+2021-10-09,2021-10-01,Departure,08:50,Amsterdam,HV6888,Transavia,08:48,Actual
+2021-10-09,2021-10-01,Departure,09:15,London Luton,EZY2296,EasyJet,10:33,Actual
+2021-10-09,2021-10-01,Departure,09:30,Minneapolis St Paul,DL261,Delta,09:23,Actual
+2021-10-09,2021-10-01,Departure,10:30,Kaupmannahöfn,SK596,SAS,Aflýst,Actual
+2021-10-09,2021-10-01,Departure,10:30,Chicago,UA913,United Airlines,10:27,Actual
+2021-10-09,2021-10-01,Departure,11:15,New York JFK,DL247,Delta,11:08,Actual
+2021-10-09,2021-10-01,Departure,11:20,New York Newark,UA967,United Airlines,12:33,Actual
+2021-10-09,2021-10-01,Departure,11:30,Osló,SK4788,SAS,12:00,Actual
+2021-10-09,2021-10-01,Departure,11:40,Vagar,RC402,Atlantic Airways,11:35,Actual
+2021-10-09,2021-10-01,Departure,14:00,Kaupmannahöfn,FI212,Icelandair,13:55,Actual
+2021-10-09,2021-10-01,Departure,15:10,Riga,BT170,Air Baltic,15:04,Actual
+2021-10-09,2021-10-01,Departure,15:15,Barcelona,OG614,Play,15:08,Actual
+2021-10-09,2021-10-01,Departure,15:15,Kaupmannahöfn,OG904,Play,15:15,Actual
+2021-10-09,2021-10-01,Departure,16:10,London Heathrow,FI454,Icelandair,16:13,Actual
+2021-10-09,2021-10-01,Departure,16:45,Minneapolis St Paul,FI657,Icelandair,16:50,Actual
+2021-10-09,2021-10-01,Departure,16:45,Chicago,FI853,Icelandair,16:42,Actual
+2021-10-09,2021-10-01,Departure,16:50,Washington Dulles,FI645,Icelandair,16:56,Actual
+2021-10-09,2021-10-01,Departure,16:55,Denver,FI671,Icelandair,16:54,Actual
+2021-10-09,2021-10-01,Departure,17:00,New York JFK,FI615,Icelandair,17:01,Actual
+2021-10-09,2021-10-01,Departure,17:00,New York Newark,FI623,Icelandair,17:07,Actual
+2021-10-09,2021-10-01,Departure,17:05,Seattle,FI681,Icelandair,17:10,Actual
+2021-10-09,2021-10-01,Departure,17:05,Toronto,FI603,Icelandair,17:34,Actual
+2021-10-09,2021-10-01,Departure,17:15,Orlando,FI689,Icelandair,17:16,Actual
+2021-10-09,2021-10-01,Departure,17:15,Boston,FI631,Icelandair,17:14,Actual
+2021-10-09,2021-10-01,Departure,19:20,Rome Fiumicino,W68266,Wizz Air,20:30,Actual
+2021-10-09,2021-10-01,Departure,20:45,Katowice,W61168,Wizz Air,20:41,Actual
+2021-10-09,2021-09-30,Departure,00:25,Frankfurt,LH869,Lufthansa,00:30,Actual
+2021-10-09,2021-09-30,Departure,06:00,París CDG,OG400,Play,05:53,Actual
+2021-10-09,2021-09-30,Departure,06:00,Berlin Brandenburg,OG700,Play,05:48,Actual
+2021-10-09,2021-09-30,Departure,06:30,London Stansted,OG800,Play,06:30,Actual
+2021-10-09,2021-09-30,Departure,07:20,Munchen,FI532,Icelandair,07:22,Actual
+2021-10-09,2021-09-30,Departure,07:20,Zurich,FI568,Icelandair,07:20,Actual
+2021-10-09,2021-09-30,Departure,07:25,Frankfurt,FI520,Icelandair,07:28,Actual
+2021-10-09,2021-09-30,Departure,07:30,Dublin,FI416,Icelandair,07:27,Actual
+2021-10-09,2021-09-30,Departure,07:35,Stokkhólmur,FI306,Icelandair,07:34,Actual
+2021-10-09,2021-09-30,Departure,07:35,Glasgow,FI430,Icelandair,07:30,Actual
+2021-10-09,2021-09-30,Departure,07:40,Amsterdam,FI500,Icelandair,07:43,Actual
+2021-10-09,2021-09-30,Departure,07:40,París CDG,FI542,Icelandair,07:43,Actual
+2021-10-09,2021-09-30,Departure,07:40,Berlin Brandenburg,FI528,Icelandair,07:37,Actual
+2021-10-09,2021-09-30,Departure,07:40,Brussel,FI554,Icelandair,07:35,Actual
+2021-10-09,2021-09-30,Departure,07:40,London Heathrow,FI450,Icelandair,07:55,Actual
+2021-10-09,2021-09-30,Departure,07:45,París CDG,FI544,Icelandair,Aflýst,Actual
+2021-10-09,2021-09-30,Departure,07:45,Kaupmannahöfn,FI204,Icelandair,07:46,Actual
+2021-10-09,2021-09-30,Departure,07:50,Osló,FI318,Icelandair,07:52,Actual
+2021-10-09,2021-09-30,Departure,08:00,Manchester,FI440,Icelandair,08:19,Actual
+2021-10-09,2021-09-30,Departure,08:00,Kaupmannahöfn,FI206,Icelandair,07:55,Actual
+2021-10-09,2021-09-30,Departure,08:35,Osló,DY1171,Norwegian,08:30,Actual
+2021-10-09,2021-09-30,Departure,08:40,Tenerife South,FI580,Icelandair,08:33,Actual
+2021-10-09,2021-09-30,Departure,08:45,London Luton,EZY2296,EasyJet,09:04,Actual
+2021-10-09,2021-09-30,Departure,08:50,Alicante,FI1582,Icelandair,09:05,Actual
+2021-10-09,2021-09-30,Departure,09:00,Manchester,EZY1806,EasyJet,09:09,Actual
+2021-10-09,2021-09-30,Departure,09:30,Minneapolis St Paul,DL261,Delta,09:24,Actual
+2021-10-09,2021-09-30,Departure,10:30,Chicago,UA913,United Airlines,10:17,Actual
+2021-10-09,2021-09-30,Departure,10:40,London Heathrow,BA801,British Airways,11:00,Actual
+2021-10-09,2021-09-30,Departure,10:45,Birmingham,LS4090,JET2.Com,10:44,Actual
+2021-10-09,2021-09-30,Departure,11:15,New York JFK,DL247,Delta,11:10,Actual
+2021-10-09,2021-09-30,Departure,11:15,Manchester,LS4088,JET2.Com,11:06,Actual
+2021-10-09,2021-09-30,Departure,11:20,New York Newark,UA967,United Airlines,11:04,Actual
+2021-10-09,2021-09-30,Departure,11:45,Osló,SK4788,SAS,11:40,Actual
+2021-10-09,2021-09-30,Departure,13:35,Frankfurt,LH857,Lufthansa,13:32,Actual
+2021-10-09,2021-09-30,Departure,14:20,Napoli Capodichino,W68434,Wizz Air,15:00,Actual
+2021-10-09,2021-09-30,Departure,15:05,Edinborg,EZY6942,EasyJet,15:08,Actual
+2021-10-09,2021-09-30,Departure,15:15,Kaupmannahöfn,OG904,Play,15:13,Actual
+2021-10-09,2021-09-30,Departure,16:10,London Heathrow,FI454,Icelandair,16:19,Actual
+2021-10-09,2021-09-30,Departure,16:45,Minneapolis St Paul,FI657,Icelandair,17:25,Actual
+2021-10-09,2021-09-30,Departure,16:50,Portland,FI665,Icelandair,16:53,Actual
+2021-10-09,2021-09-30,Departure,16:50,Washington Dulles,FI645,Icelandair,16:59,Actual
+2021-10-09,2021-09-30,Departure,16:55,Denver,FI671,Icelandair,16:55,Actual
+2021-10-09,2021-09-30,Departure,17:00,New York Newark,FI623,Icelandair,17:02,Actual
+2021-10-09,2021-09-30,Departure,17:00,New York JFK,FI615,Icelandair,16:56,Actual
+2021-10-09,2021-09-30,Departure,17:05,Toronto,FI603,Icelandair,17:38,Actual
+2021-10-09,2021-09-30,Departure,17:05,Seattle,FI681,Icelandair,17:05,Actual
+2021-10-09,2021-09-30,Departure,17:15,Orlando,FI689,Icelandair,17:05,Actual
+2021-10-09,2021-09-30,Departure,17:15,Boston,FI631,Icelandair,17:17,Actual
+2021-10-09,2021-09-30,Departure,20:00,Gdansk,W61774,Wizz Air,19:57,Actual
+2021-10-09,2021-09-30,Departure,21:50,Barcelona,VY8561,Vueling,21:50,Actual
+2021-10-09,2021-09-29,Departure,00:10,Varsjá,W61540,Wizz Air,00:32,Actual
+2021-10-09,2021-09-29,Departure,07:20,Munchen,FI532,Icelandair,07:22,Actual
+2021-10-09,2021-09-29,Departure,07:20,Zurich,FI568,Icelandair,07:14,Actual
+2021-10-09,2021-09-29,Departure,07:25,Frankfurt,FI520,Icelandair,07:27,Actual
+2021-10-09,2021-09-29,Departure,07:30,Dublin,FI416,Icelandair,07:29,Actual
+2021-10-09,2021-09-29,Departure,07:35,Stokkhólmur,FI306,Icelandair,07:31,Actual
+2021-10-09,2021-09-29,Departure,07:40,Berlin Brandenburg,FI528,Icelandair,07:32,Actual
+2021-10-09,2021-09-29,Departure,07:40,Amsterdam,FI500,Icelandair,07:34,Actual
+2021-10-09,2021-09-29,Departure,07:40,London Heathrow,FI450,Icelandair,07:46,Actual
+2021-10-09,2021-09-29,Departure,07:40,París CDG,FI542,Icelandair,07:53,Actual
+2021-10-09,2021-09-29,Departure,07:45,París CDG,FI544,Icelandair,07:57,Actual
+2021-10-09,2021-09-29,Departure,07:45,Kaupmannahöfn,FI204,Icelandair,07:52,Actual
+2021-10-09,2021-09-29,Departure,08:20,Tenerife South,NO3924,Neos,08:40,Actual
+2021-10-09,2021-09-29,Departure,08:40,Tenerife South,FI580,Icelandair,08:30,Actual
+2021-10-09,2021-09-29,Departure,09:30,Minneapolis St Paul,DL261,Delta,09:26,Actual
+2021-10-09,2021-09-29,Departure,10:30,Kaupmannahöfn,SK596,SAS,10:30,Actual
+2021-10-09,2021-09-29,Departure,10:30,Chicago,UA913,United Airlines,10:18,Actual
+2021-10-09,2021-09-29,Departure,11:15,New York JFK,DL247,Delta,11:13,Actual
+2021-10-09,2021-09-29,Departure,11:20,New York Newark,UA967,United Airlines,11:00,Actual
+2021-10-09,2021-09-29,Departure,15:50,Zurich,WK301,Edelweiss,Aflýst,Actual
+2021-10-09,2021-09-29,Departure,16:10,Kaupmannahöfn,FI216,Icelandair,16:03,Actual
+2021-10-09,2021-09-29,Departure,16:45,Chicago,FI853,Icelandair,16:46,Actual
+2021-10-09,2021-09-29,Departure,16:45,Minneapolis St Paul,FI657,Icelandair,16:46,Actual
+2021-10-09,2021-09-29,Departure,16:50,Washington Dulles,FI645,Icelandair,16:47,Actual
+2021-10-09,2021-09-29,Departure,17:00,New York Newark,FI623,Icelandair,Aflýst,Actual
+2021-10-09,2021-09-29,Departure,17:00,New York JFK,FI615,Icelandair,16:56,Actual
+2021-10-09,2021-09-29,Departure,17:05,Toronto,FI603,Icelandair,17:15,Actual
+2021-10-09,2021-09-29,Departure,17:05,Seattle,FI681,Icelandair,16:59,Actual
+2021-10-09,2021-09-29,Departure,17:15,Boston,FI631,Icelandair,17:04,Actual
+2021-10-09,2021-09-29,Departure,19:50,Amsterdam,HV6888,Transavia,19:56,Actual
